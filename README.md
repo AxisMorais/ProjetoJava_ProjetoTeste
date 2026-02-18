@@ -1,2 +1,2 @@
-# ProjetoJava_Padr-oDeProjeto
+# ProjetoJava_PadraoDeProjeto
 Elaboração de projeto utilizando estruturas como Singleton/Strategy/Facade
